@@ -32,14 +32,14 @@ Library animation depends of many parameters/payloads and to achieve good result
 
 Command  | Payload | Description
 -------  | -------- | -----------
-Pixels   | _Tasmota doc_ | LEDs count
-Dimmer   | _Tasmota doc_ | Brightness
-LedTable | _Tasmota doc_ | Gamma correction
-Speed    | _Tasmota doc_ | Animation speed
-Width    | _Tasmota doc_ | Used in animation, accepts 0..3
-Color3   | _Tasmota doc_ | Used in animation
-Color4   | _Tasmota doc_ | Used in animation
-Color5   | _Tasmota doc_ | Used in animation
+Pixels   | [documentation](https://tasmota.github.io/docs/Commands/#light) | LEDs count
+Dimmer   | [documentation](https://tasmota.github.io/docs/Commands/#light) | Brightness
+LedTable | [documentation](https://tasmota.github.io/docs/Commands/#light) | Gamma correction
+Speed    | [documentation](https://tasmota.github.io/docs/Commands/#light) | Animation speed
+Width    | [documentation](https://tasmota.github.io/docs/Commands/#light) | Used in animation, accepts 0..3
+Color3   | [documentation](https://tasmota.github.io/docs/Commands/#light) | Used in animation
+Color4   | [documentation](https://tasmota.github.io/docs/Commands/#light) | Used in animation
+Color5   | [documentation](https://tasmota.github.io/docs/Commands/#light) | Used in animation
 
 - Some commands deviate behavior
 
