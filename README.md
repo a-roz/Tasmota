@@ -78,6 +78,12 @@ Result of XState command:
 
 ![Speed conversion image](/tools/logo/speed-conversion.jpg)
 
+#### example
+to put parameters all-in-one line, console:
+
+``` backlog scheme 31; dimmer 20; speed 20; xfade 7; color3 ff0000; width 0; ledtable 1 ```
+
+#### firmware
 Dont't want compile yourself ? Here is precompiled version
 
 https://github.com/a-roz/Tasmota/raw/ws2812fx/firmware/firmware.bin
