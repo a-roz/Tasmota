@@ -79,9 +79,14 @@ Result of XState command:
 ![Speed conversion image](/tools/logo/speed-conversion.jpg)
 
 #### example
-to put parameters all-in-one line, console:
+to put parameters all-in-one line, like this in console:
 
-``` backlog scheme 31; dimmer 20; speed 20; xfade 7; color3 ff0000; width 0; ledtable 1 ```
+`backlog scheme 31; dimmer 20; speed 20; xfade 7; color3 ff0000; width 0; ledtable 1`
+
+Xmas customized ;)
+
+`backlog scheme 33; dimmer 100; speed 20; ledtable OFF; color4 000000`
+
 
 #### firmware
 Dont't want compile yourself ? Here is precompiled version
