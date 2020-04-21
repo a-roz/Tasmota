@@ -97,7 +97,12 @@ I have tried this using OTA update.
 1. download and install "tasmota-minimal.bin"
 2. download and install this "firmware.bin"
 
-That is my template modified, took from @blakadder https://templates.blakadder.com/QS-QIFI-S03.html 
+**Schematic**
+
+![Schematic](/tools/logo/ws2815.jpg)
+
+**Template** modified, took from @blakadder https://templates.blakadder.com/QS-QIFI-S03.html 
+
 ![Template](/tools/logo/template.jpeg)
 
 Good luck
